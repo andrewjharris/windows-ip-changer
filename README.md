@@ -1,4 +1,9 @@
 # windows-ip-changer
+
+update June-7-18
+Automatic IP detection added for "Local Area Connection"
+-----------------
+
 The purpose of this tool is to quickly allow windows users to change their static IP address
 to a specified value/subnet/gateway or to enable DHCP.
 
